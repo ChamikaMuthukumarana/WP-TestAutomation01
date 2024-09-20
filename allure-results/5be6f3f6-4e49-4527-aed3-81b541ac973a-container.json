@@ -1,0 +1,1 @@
+{"uuid":"5be6f3f6-4e49-4527-aed3-81b541ac973a","name":"Activity01","children":["3301e32c-14c8-4625-b03e-9023ea4ca423"],"befores":[{"name":"setUpAll","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1726814616845,"stop":1726814616861}],"afters":[],"start":1726814616834,"stop":1726814627526}
